@@ -34,6 +34,7 @@ INSTALLED_APPS = [
     # local
     'accounts',
     'products',
+    'payment',
     'contact',
     'cart',
 ]
